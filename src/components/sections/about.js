@@ -136,17 +136,20 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Priscilla and I'm a new graduate from UC Santa Barbara. 
-              I'm currently seeking full-time opportunities in full-stack and back-end development.
+              Hello! My name is Priscilla and I'm a new graduate from UC Santa Barbara. I'm
+              currently seeking full-time opportunities in full-stack and back-end development.
             </p>
 
             <p>
-              I'm interested in software engineering because it is a dynamic field that gives me opportunities to learn and grow at every iteration. 
-              My main focus these days is creating passion projects built by gamers, for gamers. I'm currently self-learning various languages and softwares to build QOL bots and applications. 
+              I'm interested in software engineering because it is a dynamic field that gives me
+              opportunities to learn and grow at every iteration. My main focus these days is
+              creating passion projects for gamers. I'm currently self-learning various languages
+              and softwares to build qol bots and applications.
             </p>
 
             <p>
-              I enjoy solving unique and challenging problems, and I am eager to communicate with and adapt to new environments.
+              I enjoy solving unique and challenging problems, and I am eager to communicate with
+              and adapt to new environments.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
