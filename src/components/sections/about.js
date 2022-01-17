@@ -142,7 +142,7 @@ const About = () => {
 
             <p>
               I'm interested in software engineering because it is a dynamic field that gives me
-              opportunities to learn and grow at every iteration. My main focus these days is
+              opportunities to learn and grow at every iteration. My main focus at the moment is
               creating passion projects for gamers. I'm currently self-learning various languages
               and softwares to build qol bots and applications.
             </p>
